@@ -4,8 +4,8 @@
 
 
 <p float="left">
-  <img src="https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/f9fcaeb9-f812-48a5-9522-34c8d2e4187a" height="1200" />
-  <img src="https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/eecb4a7a-d344-422f-ae06-b09ec27602d7" height="1200"  /> 
+  <img src="https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/f9fcaeb9-f812-48a5-9522-34c8d2e4187a" height="1000" />
+  <img src="https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/eecb4a7a-d344-422f-ae06-b09ec27602d7" height="1000"  /> 
 
 </p>
 
