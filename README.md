@@ -181,9 +181,9 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Johan Myhre - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/xTidewaterx/CC__Debate__ICP](https://github.com/xTidewaterx/CC__Debate__ICP)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
