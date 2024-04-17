@@ -141,8 +141,8 @@ To get a local copy up and running follow these simple example steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Add AI to create elements for battle collection
-- [] Add correct hosting on Web3 platform
+- [ ] Add an AI engine to create elements for battle collection, with renaissance prompts to enhance the touch of enlightenment
+- [ ] Add correct hosting on Web3 platform
 - [ ] Configure more personalised user profiles
 - [X] Protected Routes and NoSQL Data Storage Connection with Snapshot
 - [ ] Add a tailored algorythm that can better allow for controversial topics to rise from the target demographic
