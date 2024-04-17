@@ -3,9 +3,9 @@
 # Project Title  - Decentralized Pay-Per-Use Controversy Targeted Debate Platform Hosted on Web3 Technology ICP
 
 ![alt text](http://url/to/img.png)  
-![CC 2](https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/f9fcaeb9-f812-48a5-9522-34c8d2e4187a)
+![Prototype Decentralised Debate Platform 1](https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/f9fcaeb9-f812-48a5-9522-34c8d2e4187a)
 
-![CC 1](https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/eecb4a7a-d344-422f-ae06-b09ec27602d7)
+![Prototype Decentralised Debate Platform 1](https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/eecb4a7a-d344-422f-ae06-b09ec27602d7)
 
 
 To find truth humans battle intellectually, striving to find the most convincing arguments for what our life and world consist of, this application attempts to serve this battles a battleground where money and pride is handled diligently. Some features are being built now, I kindly ask for your understanding, this project is stull under construction.
@@ -75,24 +75,6 @@ Each comment section is linked to the worlds most popular news story of that day
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
