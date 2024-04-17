@@ -184,7 +184,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Johan Myhre - [@your_email] johan@erobust.no
+Johan Myhre - [email-url]  johan@erobust.no
 
 Project Link: [https://github.com/xTidewaterx/CC__Debate__ICP](https://github.com/xTidewaterx/CC__Debate__ICP)
 
@@ -236,4 +236,5 @@ Will List more acknowledgments and software that has inspired me here in a few d
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[email-url]: https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png
 
