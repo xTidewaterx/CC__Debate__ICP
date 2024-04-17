@@ -185,7 +185,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Johan Myhre - *  <img src="[email-url]" height="100"  />  johan@erobust.no
+Johan Myhre - *  <img src=[email-url] height="100"  />  johan@erobust.no
 
 Project Link: [https://github.com/xTidewaterx/CC__Debate__ICP](https://github.com/xTidewaterx/CC__Debate__ICP)
 
