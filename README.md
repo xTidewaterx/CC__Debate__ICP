@@ -4,7 +4,7 @@
 
 
 
-To find truth humans battle intellectually, striving to find the most convincing arguments for what our life and world consist of, this application attempts to serve this battles a battleground where money and pride is handled diligently.
+To find truth humans battle intellectually, striving to find the most convincing arguments for what our life and world consist of, this application attempts to serve this battles a battleground where money and pride is handled diligently. Some features are being built now, I kindly ask for your understanding, this project is stull under construction.
 
 ## Description
 
