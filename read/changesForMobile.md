@@ -1,0 +1,1 @@
+1. changed "App-width", now app-width is only 60% on the desktop sizes
