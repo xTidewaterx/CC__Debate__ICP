@@ -5,7 +5,7 @@
 
 <p float="left">
   <img src="https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/f9fcaeb9-f812-48a5-9522-34c8d2e4187a" width="100" />
-  <img src="[/img2.png](https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/eecb4a7a-d344-422f-ae06-b09ec27602d7)" width="100" /> 
+  <img src="https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/eecb4a7a-d344-422f-ae06-b09ec27602d7" width="100" /> 
 
 </p>
 
