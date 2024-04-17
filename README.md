@@ -129,8 +129,8 @@ To get a local copy up and running follow these simple example steps.
    ```
 3. Log In With Valid Account `ask author`
    ```js
-  currently the project relies on Google Services
-   ```
+  currently the project relies on Google Services for authentication and data storage, and saves triple nested comment sections and connected data using a NoSQL database with the reliability of cloud computing.
+   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
