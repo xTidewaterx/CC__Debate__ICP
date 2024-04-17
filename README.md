@@ -81,7 +81,6 @@ Each comment section is linked to the worlds most popular news story of that day
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -97,8 +96,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -135,7 +132,6 @@ To get a local copy up and running follow these simple example steps.
   currently the project relies on Google Services for authentication and data storage, and saves triple nested comment sections and connected data using a NoSQL database with the reliability of cloud computing.
    
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -155,7 +151,7 @@ To get a local copy up and running follow these simple example steps.
     - [ ] Swedish
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -169,7 +165,7 @@ Any intellectual warriors are welcome to fork the project!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -178,7 +174,6 @@ Any intellectual warriors are welcome to fork the project!
 
 Distributed under the MIT License. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -189,7 +184,7 @@ Johan Myhre - Mail: <img src="https://cdn4.iconfinder.com/data/icons/social-medi
 
 Project Link: [https://github.com/xTidewaterx/CC__Debate__ICP](https://github.com/xTidewaterx/CC__Debate__ICP)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -202,7 +197,6 @@ Will List more acknowledgments and software that has inspired me here in a few d
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
