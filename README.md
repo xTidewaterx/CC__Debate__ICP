@@ -1,6 +1,6 @@
 # CC__Debate__ICP
 
-# - Decentralized Pay-Per-Use Controversy Targeted Debate Platform Hosted on Web3 Technology ICP
+# Decentralized Pay-Per-Use Controversy Targeted Debate Platform Hosted on Web3 Technology ICP
 
 
 <p float="left">
