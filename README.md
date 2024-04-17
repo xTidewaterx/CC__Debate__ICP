@@ -15,9 +15,6 @@ The application allows for combatants to communicate in a comment section that g
 Each comment section is linked to the worlds most popular news story of that day, and every 24 hours that news piece is changed. Every battle must be saved for history and the personal relics that come from it will go into the proud collection of the participants, carefully selected, stamped and sorted into categories so that the unique intellect of individuals is finally taken seriously in a digital environment that allows for a low barrier to entry individually focused intellectual production with limitless possibilities for  the controversial monetarily driven debate.The previous news/battle piece is then saved together with its refined AI-illustration  giving it artistic quality for our war collection together with its 3-layer comment section, all of this is a reflection of our history and our truth seeking species lust for intellectual battle in a chaotic, everchanging world.
 
 
-
-
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -38,11 +35,12 @@ Each comment section is linked to the worlds most popular news story of that day
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
-
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
