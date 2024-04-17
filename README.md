@@ -184,7 +184,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Johan Myhre - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Johan Myhre - [@your_email] johan@erobust.no
 
 Project Link: [https://github.com/xTidewaterx/CC__Debate__ICP](https://github.com/xTidewaterx/CC__Debate__ICP)
 
