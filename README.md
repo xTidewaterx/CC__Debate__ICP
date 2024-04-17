@@ -2,7 +2,7 @@
 
 # Project Title  - Decentralized Pay-Per-Use Controversy Targeted Debate Platform Hosted on Web3 Technology ICP
 
-Simple overview of use/purpose.
+
 
 To find truth humans battle intellectually, striving to find the most convincing arguments for what our life and world consist of, this application attempts to serve this battles a battleground where money and pride is handled diligently.
 
