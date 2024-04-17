@@ -89,7 +89,7 @@ Each comment section is linked to the worlds most popular news story of that day
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
+
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -127,10 +127,13 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm install
    ```
-3. Log In With Valid Account `ask author`
-   ```js
-  currently the project relies on Google Services
+3. Log In With Valid Account provided by one of the hosting providers `ask author`
+   ```sh
+    personal credentials ***
+
    ```
+  currently the project relies on Google Services for authentication and data storage, and saves triple nested comment sections and connected data using a NoSQL database with the reliability of cloud computing.
+   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,9 +184,9 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Johan Myhre - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/xTidewaterx/CC__Debate__ICP](https://github.com/xTidewaterx/CC__Debate__ICP)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,13 +195,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Will List more acknowledgments and software that has inspired me here in a few days!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
@@ -238,3 +236,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
