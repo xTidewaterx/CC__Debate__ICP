@@ -5,6 +5,9 @@
 ![alt text](http://url/to/img.png)  
 ![CC 2](https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/f9fcaeb9-f812-48a5-9522-34c8d2e4187a)
 
+![CC 1](https://github.com/xTidewaterx/CC__Debate__ICP/assets/79268288/eecb4a7a-d344-422f-ae06-b09ec27602d7)
+
+
 To find truth humans battle intellectually, striving to find the most convincing arguments for what our life and world consist of, this application attempts to serve this battles a battleground where money and pride is handled diligently. Some features are being built now, I kindly ask for your understanding, this project is stull under construction.
 
 ## Description
