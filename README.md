@@ -40,7 +40,6 @@ Each comment section is linked to the worlds most popular news story of that day
 
 
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
