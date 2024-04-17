@@ -127,10 +127,10 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm install
    ```
-3. Log In With Valid Account `ask author`
+3. Log In With Valid Account provided by one of the hosting providers `ask author`
    ```sh
-5. *****
-6. ```
+
+
    ```js
   currently the project relies on Google Services for authentication and data storage, and saves triple nested comment sections and connected data using a NoSQL database with the reliability of cloud computing.
    
