@@ -145,9 +145,10 @@ To get a local copy up and running follow these simple example steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add AI to create elements for battle collection
-- [x] Add correct hosting on Web3 platform
+- [] Add AI to create elements for battle collection
+- [] Add correct hosting on Web3 platform
 - [ ] Configure more personalised user profiles
+- [X] Protected Routes and NoSQL Data Storage Connection with Snapshot
 - [ ] Add a tailored algorythm that can better allow for controversial topics to rise from the target demographic
 - [ ] Multi-language Support
     - [ ] Finnish
@@ -184,7 +185,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Johan Myhre - [email-url]  johan@erobust.no
+Johan Myhre - * [![React][React.js]][React-url]  johan@erobust.no
 
 Project Link: [https://github.com/xTidewaterx/CC__Debate__ICP](https://github.com/xTidewaterx/CC__Debate__ICP)
 
